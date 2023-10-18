@@ -1,0 +1,25 @@
+.header-container {
+  width: 100%;
+  text-align: center;
+}
+
+.header-container h2 {
+  font-size: 52px;
+  color: black;
+  font-weight: bold;
+  margin: 40px;
+}
+
+.header-container p {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(67, 67, 67);
+}
+
+.main-container {
+  width: 95%;
+  display: flex;
+  margin: auto;
+  margin-left: 45px;
+  flex-wrap: wrap;
+}
